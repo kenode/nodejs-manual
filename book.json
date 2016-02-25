@@ -1,0 +1,26 @@
+{
+    "title": "Node.js 手册",
+    "variables": {
+        "title": "Node.js 手册",
+        "theme": "theme-gray",
+        "copyright": "Copyright 2015 thondery.com"
+    },
+    "collapsible_menu":true,
+    "level_number":true,
+    "links": {
+        "gitbook": true,
+        "sharing": {
+            "all":false,
+            "vk": false,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false
+        },
+        "sidebar": {
+            "Node.js 手册": "javascript:;"
+        }
+
+    },
+    "language": "zh-hans"
+}
