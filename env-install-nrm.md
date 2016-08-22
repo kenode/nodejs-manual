@@ -1,16 +1,17 @@
-# 安装 `npm` 包仓库管理器
+#  安装 nrm
 
-`nrm` 是 `npm` 源管理器，允许你在不同的源之间切换。
+Node.js 安装好之后，其自带 npm 包管理器；由于 npm 仓库位于国外，我们需要切换到国内的镜像站点。\
+nrm 是一个 npm 源管理器，允许你快速地在如下 NPM 源间切换。
 
-## 安装 `nrm`
+### 安装
 
 ```bash
 $ npm i -g nrm
 ```
 
-## 使用 `nrm`
+### 使用
 
-查看所有源
+列出所有的源
 ```bash
 $ nrm ls
 
@@ -67,7 +68,6 @@ taobao
 
 添加自定义源，适合自己的私有源
 ```bash
-# nrm add <registry> <url> [home]
 $ nrm add kenode http://registry.npm.kenode.org/ http://npm.kenode.org
 
     add registry kenode success

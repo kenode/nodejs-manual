@@ -1,6 +1,6 @@
 # 目录
 
-* [基础环境配置](nodejs-3m/README.md)
- * [安装 nvm 版本管理器](nodejs-3m/nvm.md)
- * [安装 Node.js 和 npm 包管理器](nodejs-3m/npm.md)
- * [安装 npm 源管理器](nodejs-3m/nrm.md)
+* [Node.js 手册](README.md)
+* [1. 环境配置]()
+ * [1-1. 安装 nvm 和 Node.js](env-install-nvm.md)
+ * [1-2. 安装 nrm](env-install-nrm.md)
