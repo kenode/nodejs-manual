@@ -67,6 +67,8 @@ cd "$NVM_DIR" && git pull origin master && git checkout `git describe --abbrev=0
 
 ## Windows 下安装
 
+Windows 下需要安装 [git](https://git-for-windows.github.io) 和 [python2.7](https://www.python.org/downloads/windows)
+
 ### 下载安装
 
 1. 浏览器打开 [https://github.com/coreybutler/nvm-windows/releases](https://github.com/coreybutler/nvm-windows/releases)
